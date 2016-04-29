@@ -9,6 +9,8 @@ Project("{A8155B0E-A02B-AE01-CD41-369018837D6B}") = "Fireball", "Assembly-CSharp
 EndProject
 Project("{A8155B0E-A02B-AE01-CD41-369018837D6B}") = "Fireball", "Assembly-UnityScript.unityproj", "{A89C22F5-6718-D107-C909-6433A6DDBB7B}"
 EndProject
+Project("{A8155B0E-A02B-AE01-CD41-369018837D6B}") = "Fireball", "Assembly-UnityScript-Editor.unityproj", "{29180E9A-ED85-1C9C-A475-C959C89D80C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,11 +33,15 @@ Global
 		{A89C22F5-6718-D107-C909-6433A6DDBB7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A89C22F5-6718-D107-C909-6433A6DDBB7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A89C22F5-6718-D107-C909-6433A6DDBB7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29180E9A-ED85-1C9C-A475-C959C89D80C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29180E9A-ED85-1C9C-A475-C959C89D80C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29180E9A-ED85-1C9C-A475-C959C89D80C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29180E9A-ED85-1C9C-A475-C959C89D80C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-																											GlobalSection(MonoDevelopProperties) = preSolution
+																																							GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
